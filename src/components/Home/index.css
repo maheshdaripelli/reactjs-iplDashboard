@@ -1,0 +1,28 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.mainDiv {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mapDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.headDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.img2 {
+  width: 70px;
+  margin-right: 7px;
+}

@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.notFoundDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 45px;
+}
